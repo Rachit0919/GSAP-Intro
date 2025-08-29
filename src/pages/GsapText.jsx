@@ -58,4 +58,5 @@ const GsapText = () => {
   );
 };
 
-export default GsapTe
+export default GsapText;
+
